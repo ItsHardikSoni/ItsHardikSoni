@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItsHardikSoni
 - 👀 I’m interested in ... Female & Male
 - 🌱 I’m currently learning ... Computer Science 
-- 💞️ I’m looking to collaborate on ... Instagram 
+
 - 📫 How to reach me ... hardiksoni019@gmail.com
 
 <!---
