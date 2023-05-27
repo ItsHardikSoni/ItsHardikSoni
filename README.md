@@ -10,5 +10,3 @@
 -  I’m @ItsHardikSoni
 -  I’m interested in ... Coding
 -  I’m currently learning ... Computer Science 
--  
-![Hardik Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsHardikSoni&show_icons=true&theme=radical&hide=contribs)
