@@ -1,7 +1,7 @@
 <h3 align="center">Hello! 👋</h3>
 
 <p alingn="center">
-   <a href="bit.ly/Hardik_Soni" targate="_blank">
+   <a href="https://bit.ly/Hardik_Soni" targate="_blank">
       My Portfolio
    </a>
    </p>
