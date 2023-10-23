@@ -5,8 +5,5 @@
       My Portfolio
    </a>
    </p>
-   
 
--  I’m @ItsHardikSoni
--  I’m interested in ... Coding
--  I’m currently learning ... Computer Science 
+Hello! My name is Ayush. I am 19 years old IT (Information Technology) Student. I am a Student of BCA (Bachelor of Computer Application) at Amity University in Patna Campus. I am interest in Computer Science. I like Programming and making Website. I am working on Frontend Developer in Web development.
