@@ -72,9 +72,6 @@ Check out all my repositories [here](https://github.com/ItsHardikSoni?tab=reposi
 
 ---
 
-
----
-
 ## 🏆 Achievements
 
 ### 🎯 Personal & Academic
@@ -89,14 +86,14 @@ Check out all my repositories [here](https://github.com/ItsHardikSoni?tab=reposi
 - 🥈 **Silver Medal** – Best Performance Award in Inter School Cricket Tournament  
 
 ### 💻 GitHub
-- 🧠 **Developer Program Member**  
-- 🚀 **Public Repositories Contributor**  
-- 📊 **Active Contributor Streak**  
-- 🌟 **Earned Stars on Multiple Projects**  
-- 🔧 **Maintainer of Multiple Projects**  
-- 💬 **Engages in Discussions and Community Feedback**
+![GitHub Stars](https://img.shields.io/github/stars/ItsHardikSoni?style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=ItsHardikSoni&label=Profile%20Views&color=0e75b6&style=flat)  
+![Followers](https://img.shields.io/github/followers/ItsHardikSoni?label=Followers&style=social)  
+![Commits](https://badgen.net/github/commits/ItsHardikSoni/)  
+![Repos](https://badgen.net/github/repos/ItsHardikSoni/)  
+![GitHub Contributions](https://badgen.net/github/contributors/ItsHardikSoni/project2)
 
-> 🚨 *Check out the contributor badge section below and my GitHub stats above for more details!*
+> 🔥 Keep an eye on my GitHub profile for more awesome contributions and projects!
 
 ---
 
