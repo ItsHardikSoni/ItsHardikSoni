@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Banner](banner.png)
+![Banner](Banner.png)
 
 ## 🚀 About Me
 Hi there! I'm *Hardik Soni*, a passionate developer who loves coding, learning new technologies, and contributing to open-source projects. 
