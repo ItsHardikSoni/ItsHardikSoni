@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Banner](https://drive.google.com/file/d/1YHq2IdT8ruYOKe11cFtyim1sLgchSqq5/view?usp=sharing)
+![Banner](https://drive.google.com/file/d/1YHq2IdT8ruYOKe11cFtyim1sLgchSqq5/view?usp=drive_link)
 
 ## 🚀 About Me
 Hi there! I'm *Hardik Soni*, a passionate developer who loves coding, learning new technologies, and contributing to open-source projects. 
