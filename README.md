@@ -31,21 +31,6 @@ Check out all my repositories [here](https://github.com/ItsHardikSoni?tab=reposi
 
 ---
 
-## 🏆 Achievements
-
-- 🎓 **Member of TechPreneur Core Team** at Amity University, Patna  
-- 🧑‍🏫 **Built 'Developer’s Library'** – a free programming resource hub for learners  
-- 📱 **Developed 'Pay App'** – a digital payment solution for supermarkets during Android internship at CETPA Infotech  
-- 👨‍💻 **Completed Multiple Internships** in Android, Web, Java, and C++ Development  
-- 🏅 **Completed Udemy Course** – *Master Android Application: Build 3 Applications from Scratch*  
-- 🥇 **MVP at MPL (Muzaffarpur Premier League)** organized by Muzaffarpur District Cricket Association  
-- 🏏 **Selected for Bihar University Team** at the East Zone Inter University Cricket Tournament (KIIT University)  
-- 🥉 **Bronze Medalist** – 3rd Highest Wicket-Taker and Run Scorer in St. Xavier’s Inter School Cricket Tournament  
-- 🥈 **Silver Medal** – Best Performance Award in Inter School Cricket Tournament  
-
-
----
-
 
 ## 🛠 Skills & Tools
 ### Languages
@@ -84,6 +69,21 @@ Check out all my repositories [here](https://github.com/ItsHardikSoni?tab=reposi
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/its_hardiksoni?t=ALnLpPME9qKfMyyrQf6U_Q&s=08)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/its.hardiksoni/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=wordpress&logoColor=white)](https://itshardiksoni.github.io/My-Portfolio/)
+
+---
+
+
+## 🏆 Achievements
+
+- 🎓 **Member of TechPreneur Core Team** at Amity University, Patna  
+- 🧑‍🏫 **Built 'Developer’s Library'** – a free programming resource hub for learners  
+- 📱 **Developed 'Pay App'** – a digital payment solution for supermarkets during Android internship at CETPA Infotech  
+- 👨‍💻 **Completed Multiple Internships** in Android, Web, Java, and C++ Development  
+- 🏅 **Completed Udemy Course** – *Master Android Application: Build 3 Applications from Scratch*  
+- 🥇 **MVP at MPL (Muzaffarpur Premier League)** organized by Muzaffarpur District Cricket Association  
+- 🏏 **Selected for Bihar University Team** at the East Zone Inter University Cricket Tournament (KIIT University)  
+- 🥉 **Bronze Medalist** – 3rd Highest Wicket-Taker and Run Scorer in St. Xavier’s Inter School Cricket Tournament  
+- 🥈 **Silver Medal** – Best Performance Award in Inter School Cricket Tournament  
 
 
 ---
