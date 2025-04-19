@@ -1,0 +1,5 @@
+- name: Upload Snake Animation as Artifact
+  uses: actions/upload-artifact@v3.1.3
+  with:
+    name: snake-animation
+    path: dist/
