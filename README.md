@@ -31,6 +31,17 @@ Check out all my repositories [here](https://github.com/ItsHardikSoni?tab=reposi
 
 ---
 
+## 👥 Contributors
+
+Thanks to all the amazing people who have contributed to this project:
+
+<a href="https://github.com/ItsHardikSoni/project2/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ItsHardikSoni/project2" />
+</a>
+
+---
+
+
 ## 🛠 Skills & Tools
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
