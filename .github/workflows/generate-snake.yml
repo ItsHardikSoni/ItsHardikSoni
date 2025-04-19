@@ -4,6 +4,7 @@ on:
          - main
      workflow_dispatch:
 
+     
 jobs:
      generate:
        name: Generate Snake Animation
