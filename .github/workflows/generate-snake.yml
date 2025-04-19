@@ -4,7 +4,7 @@ on:
          - main
      workflow_dispatch:
 
-   jobs:
+jobs:
      generate:
        name: Generate Snake Animation
        runs-on: ubuntu-latest
