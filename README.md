@@ -31,13 +31,18 @@ Check out all my repositories [here](https://github.com/ItsHardikSoni?tab=reposi
 
 ---
 
-## 👥 Contributors
+## 🏆 Achievements
 
-Thanks to all the amazing people who have contributed to this project:
+- 🎓 **Member of TechPreneur Core Team** at Amity University, Patna  
+- 🧑‍🏫 **Built 'Developer’s Library'** – a free programming resource hub for learners  
+- 📱 **Developed 'Pay App'** – a digital payment solution for supermarkets during Android internship at CETPA Infotech  
+- 👨‍💻 **Completed Multiple Internships** in Android, Web, Java, and C++ Development  
+- 🏅 **Completed Udemy Course** – *Master Android Application: Build 3 Applications from Scratch*  
+- 🥇 **MVP at MPL (Muzaffarpur Premier League)** organized by Muzaffarpur District Cricket Association  
+- 🏏 **Selected for Bihar University Team** at the East Zone Inter University Cricket Tournament (KIIT University)  
+- 🥉 **Bronze Medalist** – 3rd Highest Wicket-Taker and Run Scorer in St. Xavier’s Inter School Cricket Tournament  
+- 🥈 **Silver Medal** – Best Performance Award in Inter School Cricket Tournament  
 
-<a href="https://github.com/ItsHardikSoni/project2/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ItsHardikSoni/project2" />
-</a>
 
 ---
 
