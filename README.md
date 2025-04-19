@@ -91,6 +91,5 @@ If you find my work useful or inspiring, here are a few ways you can support me:
 
 Your support keeps me motivated to keep building and sharing more cool stuff! 🚀💻
 
-
-![Snake Animation](https://raw.githubusercontent.com/ItsHardikSoni/ItsHardikSoni/output/github-contribution-grid-snake.svg)
+---
 
