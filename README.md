@@ -5,9 +5,9 @@
 ## 🚀 About Me
 Hi there! I'm *Hardik Soni*, a passionate developer who loves coding, learning new technologies, and contributing to open-source projects. 
 
-- 🔭 I’m currently working on: *Exciting Open-Source Projects*
-- 🌱 I’m currently learning: *Cloud Technologies & Kubernetes*
-- 💬 Ask me about: *Web Development, Python, or JavaScript*
+- 🔭 I’m currently working on: *Flutter & Open-Source Projects*
+- 🌱 I’m currently learning: *Android & IOS Application*
+- 💬 Ask me about: *Web Development, Android Development*
 - 😄 Pronouns: *He/Him*
 - ⚡ Fun fact: *I can debug code faster than I can cook a meal!*
 
