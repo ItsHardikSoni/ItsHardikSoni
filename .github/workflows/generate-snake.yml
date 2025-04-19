@@ -12,17 +12,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
           github_user_name: ItsHardikSoni
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg
 
-      - name: Upload Snake Animation
+      - name: Upload Snake Animation as Artifact
         uses: actions/upload-artifact@v3
         with:
           name: snake-animation
-          path: dist/snake.svg
+          path: dist/
