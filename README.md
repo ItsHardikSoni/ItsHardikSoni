@@ -17,16 +17,13 @@ Hi there! I'm *Ayush*, a passionate developer who loves coding, learning new tec
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsHardikSoni&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItsHardikSoni&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=ItsHardikSoni&theme=radical)
+
 
 ---
 
 ## 💼 Projects
 
-### Featured Projects
-- [Project 1](https://github.com/ItsHardikSoni/project1) - A brief description of the project.
-- [Project 2](https://github.com/ItsHardikSoni/project2) - Another cool project to showcase.
-
-### Other Projects
 Check out all my repositories [here](https://github.com/ItsHardikSoni?tab=repositories).
 
 ---
@@ -65,10 +62,11 @@ Check out all my repositories [here](https://github.com/ItsHardikSoni?tab=reposi
 ---
 
 ## 🌐 Connect with Me
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://developerayush.me)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/its.hardiksoni/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/its-hardik-soni/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/its_hardiksoni?t=ALnLpPME9qKfMyyrQf6U_Q&s=08)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/its.hardiksoni/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=wordpress&logoColor=white)](https://itshardiksoni.github.io/My-Portfolio/)
+
 
 ---
 
@@ -87,7 +85,8 @@ Check out all my repositories [here](https://github.com/ItsHardikSoni?tab=reposi
 
 ### 💻 GitHub
 - 🦈 **Achievement: Pull Shark x2** – Earned by successfully merging multiple pull requests 💪
-![Profile Views](https://komarev.com/ghpvc/?username=ItsHardikSoni&label=Profile%20Views&color=0e75b6&style=flat)  
+![Profile Views](https://komarev.com/ghpvc/?username=ItsHardikSoni&label=Profile%20Views&color=0e75b6&style=flat)
+ 
 
 > 🔥 Keep an eye on my GitHub profile for more awesome contributions and projects!
 
