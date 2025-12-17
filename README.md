@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Banner](Banner.png)
+![Banner](Software.gif)
 
 ## 🚀 About Me
 Hi there! I'm *Ayush*, a passionate developer who loves coding, learning new technologies, and contributing to open-source projects. 
