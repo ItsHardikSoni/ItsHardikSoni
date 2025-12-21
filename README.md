@@ -1,6 +1,10 @@
 <h1 align="center">Hey! 👋 I'm Ayush</h1>
 
 <p align="center">
+  <strong>Nickname:</strong> Hardik Soni
+</p>
+
+<p align="center">
   A passionate developer who loves coding, learning new technologies, and contributing to open-source projects.
 </p>
 
@@ -55,6 +59,7 @@
   <img src="https://img.shields.io/badge/Netlify-black?style=flat-square&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-black?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 <!-- FRAMEWORKS -->
@@ -122,6 +127,9 @@
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsHardikSoni&layout=compact&theme=dark&hide_border=true" />
 </p>
+
+<hr />
+
 <h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
@@ -129,12 +137,13 @@
   &theme=darkhub
   &no-frame=true
   &margin-w=10
-  &title=PullRequest,PullShark,Commit,Repositories,Stars,Followers,Issues" />
+  &title=PullShark,PullRequest,Commit,Repositories,Stars,Followers" />
 </p>
 
 <p align="center">
   🦈 <strong>Pull Shark ×2</strong> &nbsp;•&nbsp;
-  🚀 Open Source Contributions &nbsp;•&nbsp;
-  ⭐ Community Engagement
+  ⭐ Open Source Contributions &nbsp;•&nbsp;
+  🚀 Active Developer
 </p>
+
 
