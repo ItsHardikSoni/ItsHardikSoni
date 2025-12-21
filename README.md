@@ -29,10 +29,10 @@
   <a href="https://www.instagram.com/its.hardiksoni/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/its-hardik-soni/" target="_blank">
+  <a href="https://www.linkedin.com/in/imhardiksoni/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/its_hardiksoni" target="_blank">
+  <a href="https://x.com/imHardikSoni" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter&logoColor=white" />
   </a>
 </p>
