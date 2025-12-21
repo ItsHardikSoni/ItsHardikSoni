@@ -1,115 +1,140 @@
-# 👋 Welcome to My GitHub Profile!
+<h1 align="center">Hey! 👋 I'm Ayush</h1>
 
-![Banner](Software.gif)
+<p align="center">
+  A passionate developer who loves coding, learning new technologies, and contributing to open-source projects.
+</p>
 
-## 🚀 About Me
-Hi there! I'm *Ayush*, a passionate developer who loves coding, learning new technologies, and contributing to open-source projects. 
+<ul>
+  <li>🔭 I’m currently working on: <strong>React Native & Open-Source Projects</strong></li>
+  <li>🌱 I’m currently learning: <strong>Android & iOS Application</strong></li>
+  <li>💬 Ask me about: <strong>Web Development, Android Development</strong></li>
+  <li>😄 Pronouns: <strong>He/Him</strong></li>
+  <li>⚡ Fun fact: <strong>I can debug code faster than I can cook a meal!</strong></li>
+</ul>
 
-- 🔭 I’m currently working on: *Flutter & Open-Source Projects*
-- 🌱 I’m currently learning: *Android & IOS Application*
-- 💬 Ask me about: *Web Development, Android Development*
-- 😄 Pronouns: *He/Him*
-- ⚡ Fun fact: *I can debug code faster than I can cook a meal!*
+<!-- PAGE VIEW COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ItsHardikSoni&label=Profile%20Views&color=000000&style=flat-square" />
+</p>
 
----
+<!-- SOCIAL LINKS (ALL BLACK) -->
+<p align="center">
+  <a href="https://developerayush.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/its.hardiksoni/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/its-hardik-soni/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/its_hardiksoni" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
-## 📈 GitHub Stats
+<hr />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsHardikSoni&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItsHardikSoni&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=ItsHardikSoni&theme=radical)
+<h2>💻 Tech Stack</h2>
 
+<!-- LANGUAGES -->
+<h3>📝 Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-black?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
----
+<!-- HOSTING -->
+<h3>☁️ Hosting</h3>
+<p>
+  <img src="https://img.shields.io/badge/Netlify-black?style=flat-square&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase&logoColor=white" />
+</p>
 
-## 💼 Projects
-
-Check out all my repositories [here](https://github.com/ItsHardikSoni?tab=repositories).
-
----
-
-
-## 🛠 Skills & Tools
-### Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<!-- FRAMEWORKS -->
+<h3>⚙️ Frameworks & Libraries</h3>
+<p>
+  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-black?style=flat-square&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-black?style=flat-square&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semantic_UI-black?style=flat-square&logo=semanticuireact&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-black?style=flat-square&logo=npm&logoColor=white" />
+</p>
 
 
----
+<!-- DATABASES -->
+<h3>🗄️ Databases</h3>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-black?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase&logoColor=white" />
+</p>
 
-## 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://developerayush.me)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/its.hardiksoni/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/its-hardik-soni/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/its_hardiksoni?t=ALnLpPME9qKfMyyrQf6U_Q&s=08)
 
+<!-- DESIGN -->
+<h3>🎨 Design</h3>
+<p>
+  <img src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-black?style=flat-square&logo=canva&logoColor=white" />
+</p>
 
----
+<!-- CI/CD -->
+<h3>🔁 CI/CD & VCS</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" />
+</p>
 
-## 🏆 Achievements
+<!-- OTHER -->
+<h3>🧰 Other Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman&logoColor=white" />
+</p>
 
-### 🎯 Personal & Academic
-- 🎓 **TechPreneur Core Team Member** – Amity University, Patna  
-- 📱 **Developed 'Pay App'** – a digital payment solution for supermarkets during Android internship at CETPA Infotech  
-- 🧑‍🏫 **Built 'Developer’s Library'** – a free programming resource hub for learners  
-- 👨‍💻 **Completed Internships** in Android, Web, Java, and C++ Development  
-- 🎖️ **Completed Udemy Course** – *Master Android Application: Build 3 Applications from Scratch*  
-- 🥇 **MVP at MPL (Muzaffarpur Premier League)** organized by Muzaffarpur District Cricket Association  
-- 🏏 **Selected for Bihar University Team** at the East Zone Inter University Cricket Tournament (KIIT University)  
-- 🥉 **Bronze Medalist** – 3rd Highest Wicket-Taker and Run Scorer in St. Xavier’s Inter School Cricket Tournament  
-- 🥈 **Silver Medal** – Best Performance Award in Inter School Cricket Tournament  
+<hr />
 
-### 💻 GitHub
-- 🦈 **Achievement: Pull Shark x2** – Earned by successfully merging multiple pull requests 💪
-![Profile Views](https://komarev.com/ghpvc/?username=ItsHardikSoni&label=Profile%20Views&color=0e75b6&style=flat)
- 
+<h2>📊 GitHub Stats</h2>
 
-> 🔥 Keep an eye on my GitHub profile for more awesome contributions and projects!
+<p align="center">
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsHardikSoni&theme=dark&show_icons=true&hide_border=true" />
+  <br />
 
----
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHardikSoni&theme=dark&hide_border=true" />
+  <br />
 
-## 💡 Fun Facts
-- 🌍 I love exploring new cultures and places.
-- 🎮 I’m a huge fan of strategy and puzzle video games.
-- 📚 I’ve read over 50 programming books in the last 5 years.
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsHardikSoni&layout=compact&theme=dark&hide_border=true" />
+</p>
+<h2>🏆 GitHub Trophies</h2>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ItsHardikSoni
+  &theme=darkhub
+  &no-frame=true
+  &margin-w=10
+  &title=PullRequest,PullShark,Commit,Repositories,Stars,Followers,Issues" />
+</p>
 
-## ❤️ Support My Work
-
-If you find my work useful or inspiring, here are a few ways you can support me:
-
-- ⭐ Star and fork my repositories to help more people discover them  
-- 🧠 Share feedback, suggestions, or improvement ideas — I'm always up to learn  
-- 🤝 Reach out for collaborations on open-source or freelance projects  
-- 🚀 Recommend me for internships, jobs, or dev communities  
-- 📢 Share my GitHub with your network — it means a lot!
-
-Your support keeps me motivated to keep building and sharing more cool stuff! 🚀💻
-
----
+<p align="center">
+  🦈 <strong>Pull Shark ×2</strong> &nbsp;•&nbsp;
+  🚀 Open Source Contributions &nbsp;•&nbsp;
+  ⭐ Community Engagement
+</p>
 
