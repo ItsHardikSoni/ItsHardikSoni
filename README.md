@@ -117,6 +117,12 @@
 
 <p align="center">
   <!-- GitHub Overall Stats -->
+
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsHardikSoni&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItsHardikSoni&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsHardikSoni&theme=default)
+
   <img src="https://github-readme-stats.vercel.app/api?username=ItsHardikSoni&theme=dark&show_icons=true&hide_border=true" />
   <br />
 
