@@ -39,7 +39,7 @@
 
 <hr />
 
-<h2>💻 Tech Stack</h2>
+<!-- <h2>💻 Tech Stack</h2>
 
 <!-- LANGUAGES -->
 <h3>📝 Languages</h3>
@@ -109,7 +109,7 @@
 <h3>🧰 Other Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman&logoColor=white" />
-</p>
+</p> -->
 
 <hr />
 
@@ -121,16 +121,11 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsHardikSoni&theme=default)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItsHardikSoni&theme=default)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsHardikSoni&theme=default)
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsHardikSoni&theme=dark&show_icons=true&hide_border=true" />
   <br />
 
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHardikSoni&theme=dark&hide_border=true" />
   <br />
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsHardikSoni&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <hr />
