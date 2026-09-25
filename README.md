@@ -23,7 +23,7 @@
 
 <!-- SOCIAL LINKS (ALL BLACK) -->
 <p align="center">
-  <a href="https://developerayush.me" target="_blank">
+  <a href="https://developerayush.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/its.hardiksoni/" target="_blank">
