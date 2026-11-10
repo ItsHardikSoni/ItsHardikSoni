@@ -59,17 +59,9 @@
 <h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ItsHardikSoni
-  &theme=darkhub
-  &no-frame=true
-  &margin-w=10
-  &title=PullShark,PullRequest,Commit,Repositories,Stars,Followers" />
-</p>
-
-<p align="center">
-  🦈 <strong>Pull Shark ×2</strong> &nbsp;•&nbsp;
-  ⭐ Open Source Contributions &nbsp;•&nbsp;
-  🚀 Active Developer
+  <a href="https://github.com/itshardiksoni">
+    <img src="https://github-trophies.vercel.app/?username=itshardiksoni&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+  </a>
 </p>
 
 
