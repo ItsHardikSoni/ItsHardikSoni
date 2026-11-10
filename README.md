@@ -42,15 +42,15 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <!-- GitHub Overall Stats -->
-
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsHardikSoni&theme=default)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItsHardikSoni&theme=default)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsHardikSoni&theme=default)
   <br />
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHardikSoni&theme=dark&hide_border=true" />
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHardikSoni&theme=dark&hide_border=true" />
+  </p>
   <br />
 </p>
 
