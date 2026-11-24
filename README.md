@@ -166,7 +166,11 @@ A web-based event management platform developed to streamline college event regi
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=ItsHardikSoni&theme=nord&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ItsHardikSoni&theme=onedark&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15"
+    alt="GitHub Achievements"
+    width="100%"
+  />
 </p>
 
 ---
