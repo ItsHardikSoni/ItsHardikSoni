@@ -1,69 +1,186 @@
-<h1 align="center">Hey! 👋 I'm Ayush</h1>
+# Hi, I'm Ayush 👋
+### Software Developer | Full-Stack & Mobile Application Development
 
-<p align="center">
-  <strong>Nickname:</strong> Hardik Soni
-</p>
+I am a software developer passionate about building practical, scalable, and user-focused applications. I enjoy turning ideas into functional products through clean code, thoughtful UI/UX, and modern development technologies.
 
-<p align="center">
-  A passionate developer who loves coding, learning new technologies, and contributing to open-source projects.
-</p>
+Currently pursuing my MCA at Nitte Meenakshi Institute of Technology, Bengaluru, I focus on frontend development, backend integration, database design, and cross-platform mobile application development.
 
-<ul>
-  <li>🔭 I’m currently working on: <strong>React Native & Open-Source Projects</strong></li>
-  <li>🌱 I’m currently learning: <strong>Android & iOS Application</strong></li>
-  <li>💬 Ask me about: <strong>Web Development, Android Development</strong></li>
-  <li>😄 Pronouns: <strong>He/Him</strong></li>
-  <li>⚡ Fun fact: <strong>I can debug code faster than I can cook a meal!</strong></li>
-</ul>
+I believe in continuous learning, problem-solving, and building software that solves real-world problems.
 
-<!-- PAGE VIEW COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ItsHardikSoni&label=Profile%20Views&color=000000&style=flat-square" />
-</p>
+- 💻 Focus Areas: Full-Stack Development & Mobile Application Development
+- 🌱 Currently exploring: Advanced React Native, Backend Development, and AI Technologies
+- 🚀 Interested in: Software Engineering, Open Source, and Product Development
+- 📍 Based in: Bengaluru, India
+- 🤝 Open to: Software Development Opportunities and Collaborations
 
-<!-- SOCIAL LINKS (ALL BLACK) -->
-<p align="center">
-  <a href="https://developerayush.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white" />
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://developerayush.tech">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/its.hardiksoni/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/imhardiksoni/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/imhardiksoni/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.instagram.com/its.hardiksoni/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://x.com/imHardikSoni" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter&logoColor=white" />
+  <a href="https://x.com/imHardikSoni">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
-<hr />
+---
 
-<h2>📊 GitHub Stats</h2>
+## 💼 Experience & Professional Development
+
+### Frontend Web Developer — TechPreneur Core Team
+- Contributed to frontend development and technical initiatives.
+- Worked on building and improving web interfaces.
+- Collaborated with team members on development activities.
+
+### Android Development Intern — Rakta Cure Vedictron Labs
+- Gained practical experience in Android application development.
+- Worked with mobile application development technologies.
+- Improved understanding of application structure and implementation.
+
+### Android Development Training — CETPA Infotech Pvt. Ltd.
+- Completed practical Android development training.
+- Strengthened application development and programming fundamentals.
+- Gained exposure to real-world development workflows.
+
+### Java Programming Training — C-DAC Patna
+- Completed Master Java Programming training.
+- Practiced Core Java, object-oriented programming, and problem-solving.
+- Applied Java concepts in academic and practical projects.
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend Development
+Building responsive, accessible, and user-friendly interfaces.
+
+- HTML5, CSS3, JavaScript
+- React.js, Tailwind CSS, Material UI
+- Responsive Design and Component-Based Architecture
+
+### Backend Development
+Developing application logic, APIs, and server-side functionality.
+
+- Node.js, Core Java, JDBC
+- REST API Integration
+- Authentication and Backend Logic
+
+### Database & Backend Services
+Working with relational databases and backend-as-a-service platforms.
+
+- MySQL, PostgreSQL
+- Supabase, Firebase
+- SQL, Database Design, Row Level Security (RLS)
+
+### Mobile & Application Development
+Developing Android and cross-platform mobile applications.
+
+- React Native, Expo
+- Java, Kotlin, Flutter, Dart
+- Android Studio, Expo Router
+- Firebase and Supabase Integration
+
+### Tools, Libraries & Platforms
+- Git, GitHub, VS Code, IntelliJ IDEA
+- Android Studio, Figma
+- Vercel, Hostinger
+- npm, Expo CLI
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Kala Mitra — D2C Artisan Marketplace
+A digital marketplace designed to connect artisans with customers through an accessible online shopping experience.
+
+**Tech Stack:** React.js, Vite, Tailwind CSS, Node.js, Supabase, PostgreSQL
+
+- Implemented authentication and role-based access using Supabase.
+- Developed product, order, and dashboard functionality.
+- Designed a bilingual Hindi and English shopping experience with Cash on Delivery support.
+
+### 2. LocalFix — Local Service & Technician Marketplace
+A location-restricted service marketplace connecting customers with verified local technicians and service professionals.
+
+**Tech Stack:** React Native, Expo, Supabase, PostgreSQL
+
+- Designed a district-based worker discovery and hiring concept.
+- Planned service booking, availability, price estimates, and job tracking.
+- Focused on worker verification, customer trust, and service transparency.
+
+### 3. Pay Mart — Smart Supermarket Application
+A mobile supermarket application designed to simplify product scanning, shopping, and checkout.
+
+**Tech Stack:** React Native, Expo, Supabase, PostgreSQL, Razorpay
+
+- Implemented barcode scanning and manual product lookup.
+- Designed cart management and digital tax invoice functionality.
+- Planned Cash and Razorpay payment integration with store-specific product validation.
+
+### 4. Online Voting System
+A Java-based voting application designed to provide a structured and reliable digital voting process.
+
+**Tech Stack:** Core Java, JDBC, MySQL
+
+- Implemented voter authentication and validation.
+- Developed administrator functionality for candidate management.
+- Added voting restrictions to prevent duplicate votes and supported result counting.
+
+### 5. AIIT Events Portal
+A web-based event management platform developed to streamline college event registration and participation.
+
+**Tech Stack:** Web Development Technologies
+
+- Contributed to the development of the department's event portal.
+- Supported an event registration experience with over 2,500 registrations.
+- Focused on accessible interfaces and streamlined event participation.
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <!-- GitHub Overall Stats -->
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsHardikSoni&theme=default" alt="GitHub Profile Summary" />
+</p>
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsHardikSoni&theme=default)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItsHardikSoni&theme=default)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsHardikSoni&theme=default)
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsHardikSoni&theme=default" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItsHardikSoni&theme=default" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHardikSoni&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=ItsHardikSoni&theme=nord&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Profile Activity
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ItsHardikSoni&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <b>Building, learning, and improving — one project at a time.</b>
   <br />
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHardikSoni&theme=dark&hide_border=true" />
-  <br />
+  Feel free to explore my repositories and connect with me!
 </p>
-
-<hr />
-
-<h2>🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <a href="https://github.com/itshardiksoni">
-    <img src="https://github-trophies.vercel.app/?username=itshardiksoni&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-  </a>
-</p>
-
-
-
-
