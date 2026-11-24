@@ -8,7 +8,7 @@ Currently pursuing my MCA at Nitte Meenakshi Institute of Technology, Bengaluru,
 I believe in continuous learning, problem-solving, and building software that solves real-world problems.
 
 - 💻 Focus Areas: Full-Stack Development & Mobile Application Development
-- 🌱 Currently exploring: Advanced React Native, Backend Development, and AI Technologies
+- 🌱 Currently exploring: React Native, Backend Development, and AI Technologies
 - 🚀 Interested in: Software Engineering, Open Source, and Product Development
 - 📍 Based in: Bengaluru, India
 - 🤝 Open to: Software Development Opportunities and Collaborations
@@ -26,25 +26,25 @@ I believe in continuous learning, problem-solving, and building software that so
 
 ## 💼 Experience & Professional Development
 
-### Frontend Web Developer — TechPreneur Core Team
-- Contributed to frontend development and technical initiatives.
-- Worked on building and improving web interfaces.
-- Collaborated with team members on development activities.
-
-### Android Development Intern — Rakta Cure Vedictron Labs
-- Gained practical experience in Android application development.
-- Worked with mobile application development technologies.
-- Improved understanding of application structure and implementation.
+### Java Programming Training — C-DAC Patna
+- Completed Master Java Programming training.
+- Practiced Core Java, object-oriented programming, and problem-solving.
+- Applied Java concepts in academic and practical projects.
 
 ### Android Development Training — CETPA Infotech Pvt. Ltd.
 - Completed practical Android development training.
 - Strengthened application development and programming fundamentals.
 - Gained exposure to real-world development workflows.
 
-### Java Programming Training — C-DAC Patna
-- Completed Master Java Programming training.
-- Practiced Core Java, object-oriented programming, and problem-solving.
-- Applied Java concepts in academic and practical projects.
+### Android Development Intern — Rakta Cure Vedictron Labs
+- Gained practical experience in Android application development.
+- Worked with mobile application development technologies.
+- Improved understanding of application structure and implementation.
+
+### Frontend Web Developer — TechPreneur Core Team
+- Contributed to frontend development and technical initiatives.
+- Worked on building and improving web interfaces.
+- Collaborated with team members on development activities.
 
 ---
 
@@ -75,7 +75,7 @@ Working with relational databases and backend-as-a-service platforms.
 Developing Android and cross-platform mobile applications.
 
 - React Native, Expo
-- Java, Kotlin, Flutter, Dart
+- Java
 - Android Studio, Expo Router
 - Firebase and Supabase Integration
 
@@ -89,16 +89,7 @@ Developing Android and cross-platform mobile applications.
 
 ## 🚀 Featured Projects
 
-### 1. Kala Mitra — D2C Artisan Marketplace
-A digital marketplace designed to connect artisans with customers through an accessible online shopping experience.
-
-**Tech Stack:** React.js, Vite, Tailwind CSS, Node.js, Supabase, PostgreSQL
-
-- Implemented authentication and role-based access using Supabase.
-- Developed product, order, and dashboard functionality.
-- Designed a bilingual Hindi and English shopping experience with Cash on Delivery support.
-
-### 2. LocalFix — Local Service & Technician Marketplace
+### 1. LocalFix — Local Service & Technician Marketplace
 A location-restricted service marketplace connecting customers with verified local technicians and service professionals.
 
 **Tech Stack:** React Native, Expo, Supabase, PostgreSQL
@@ -107,7 +98,7 @@ A location-restricted service marketplace connecting customers with verified loc
 - Planned service booking, availability, price estimates, and job tracking.
 - Focused on worker verification, customer trust, and service transparency.
 
-### 3. Pay Mart — Smart Supermarket Application
+### 2. Pay Mart — Smart Supermarket Application
 A mobile supermarket application designed to simplify product scanning, shopping, and checkout.
 
 **Tech Stack:** React Native, Expo, Supabase, PostgreSQL, Razorpay
@@ -116,7 +107,7 @@ A mobile supermarket application designed to simplify product scanning, shopping
 - Designed cart management and digital tax invoice functionality.
 - Planned Cash and Razorpay payment integration with store-specific product validation.
 
-### 4. Online Voting System
+### 3. Online Voting System
 A Java-based voting application designed to provide a structured and reliable digital voting process.
 
 **Tech Stack:** Core Java, JDBC, MySQL
@@ -125,7 +116,28 @@ A Java-based voting application designed to provide a structured and reliable di
 - Developed administrator functionality for candidate management.
 - Added voting restrictions to prevent duplicate votes and supported result counting.
 
-### 5. AIIT Events Portal
+### 4. Kala Mitra — D2C Artisan Marketplace
+A digital marketplace designed to connect artisans with customers through an accessible online shopping experience.
+
+**Tech Stack:** React.js, Vite, Tailwind CSS, Node.js, Supabase, PostgreSQL
+
+- Implemented authentication and role-based access using Supabase.
+- Developed product, order, and dashboard functionality.
+- Designed a bilingual Hindi and English shopping experience with Cash on Delivery support.
+
+### 5. Java 8 Tutorial — Complete Java Programming Guide
+
+A comprehensive, chapter-wise Java learning repository designed to help students, beginners, and aspiring developers learn Java from fundamentals to advanced concepts.
+
+**Tech Stack:** Java 8, Core Java, OOP, JDBC
+
+- Created structured tutorials covering Core Java, OOP, Collections Framework, Exception Handling, and Java 8 features.
+- Documented Multithreading, JDBC, JVM, JRE, and other important Java concepts with practical programming examples.
+- Developed a chapter-wise learning index to make Java concepts easier to navigate and understand.
+
+**Repository:** [Explore Java 8 Tutorial](https://github.com/ItsHardikSoni/java8-tutorial)
+
+### 6. AIIT Events Portal
 A web-based event management platform developed to streamline college event registration and participation.
 
 **Tech Stack:** Web Development Technologies
