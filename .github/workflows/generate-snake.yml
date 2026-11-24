@@ -24,7 +24,7 @@ jobs:
             dist/snake-dark.svg
 
       - name: Upload Snake Animation as Artifact
-        uses: actions/upload-artifact
+        uses: actions/upload-artifact@v4
         with:
           name: snake-animation
           path: dist/
