@@ -17,20 +17,10 @@ I believe in continuous learning, problem-solving, and building software that so
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://developerayush.tech">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/imhardiksoni/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/its.hardiksoni/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/imHardikSoni">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=flat&logo=vercel&logoColor=white)](https://developerayush.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imhardiksoni/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/its.hardiksoni/)
+[![X](https://img.shields.io/badge/X-Follow%20Me-000000?style=flat&logo=x&logoColor=white)](https://x.com/imHardikSoni)
 
 ---
 
@@ -184,11 +174,33 @@ A web-based event management platform developed to streamline college event regi
 <p align="center">
   <a href="https://github.com/ItsHardikSoni">
     <img
-      src="https://github-trophies.vercel.app/?username=ItsHardikSoni&theme=nord&no-frame=true&no-bg=true&column=4&margin-w=15"
+      src="https://github-trophies.vercel.app/?username=ItsHardikSoni&theme=default&no-frame=true&no-bg=true&column=6"
       alt="GitHub Achievements"
       width="100%"
     />
   </a>
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ItsHardikSoni/ItsHardikSoni/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ItsHardikSoni/ItsHardikSoni/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/ItsHardikSoni/ItsHardikSoni/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---
