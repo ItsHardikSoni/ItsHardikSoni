@@ -149,16 +149,32 @@ A web-based event management platform developed to streamline college event regi
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsHardikSoni&theme=default" alt="GitHub Profile Summary" />
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsHardikSoni&theme=default&bg_color=FFFFFF&border_color=FFFFFF"
+    alt="GitHub Profile Summary"
+  />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsHardikSoni&theme=default" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItsHardikSoni&theme=default" alt="Most Used Languages" />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsHardikSoni&theme=default&bg_color=FFFFFF&border_color=FFFFFF"
+    alt="GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItsHardikSoni&theme=default&bg_color=FFFFFF&border_color=FFFFFF"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHardikSoni&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
+  <img
+    width="70%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHardikSoni&theme=default&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
@@ -166,11 +182,13 @@ A web-based event management platform developed to streamline college event regi
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ItsHardikSoni&theme=onedark&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15"
-    alt="GitHub Achievements"
-    width="100%"
-  />
+  <a href="https://github.com/ItsHardikSoni">
+    <img
+      src="https://github-trophies.vercel.app/?username=ItsHardikSoni&theme=nord&no-frame=true&no-bg=true&column=4&margin-w=15"
+      alt="GitHub Achievements"
+      width="100%"
+    />
+  </a>
 </p>
 
 ---
